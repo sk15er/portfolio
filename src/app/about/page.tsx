@@ -287,8 +287,8 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m Shushank, a Fullstack developer  and ai ml engineer passionate about
-              creating meaningful digital experiences. With great in Web
+              Hey there! I&apos;m Shushank, a Fullstack Developer and AI/ML Engineer passionate about
+              creating meaningful digital experiences. With expertise in Web
               development, I thrive on turning ideas into reality through coding
               and design. My journey began with a fascination for technology and
               a drive to make a positive impact.
