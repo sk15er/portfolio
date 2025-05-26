@@ -441,7 +441,7 @@ const projects: Project[] = [
             minutes. Just enter your channel name, and the app will generate a
             fully functional YouTube app for you.
           </p>
-          <SlideShow images={[`${BASE_PATH}/the-booking-desk/landing.png`]} />
+          <SlideShow images={[`${BASE_PATH}/youtube/1.png`]} />
           <TypographyH3 className="my-4 mt-8">Blogs</TypographyH3>
           <p className="font-mono mb-2">
             The app is built with Next.js and Chakra UI, making it fast and
