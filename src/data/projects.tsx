@@ -495,7 +495,7 @@ const projects: Project[] = [
       return (
         <div>
           <TypographyP className="font-mono ">
-            GStockBot is an AI-powered chatbot that leverages Llama3 70b on Groq, Vercel’s AI SDK,
+            StockBot is an AI-powered chatbot that leverages Llama3 70b on Groq, Vercel's AI SDK,
              and TradingView live widgets to respond in conversation with live, interactive charts and interfaces 
              specifically tailored to your requests. Groq's speed makes tool calling and providing a response near 
              instantaneous, allowing for a sequence of two API calls with separate specialized prompts to return a response.
