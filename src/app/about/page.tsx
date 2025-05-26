@@ -43,8 +43,8 @@ import { TbTerminal2 } from "react-icons/tb";
 const CONTACT_LINKS = [
   {
     name: "Email",
-    content: "Shushank email ",
-    href: "Shushnakpawar664@gmail.com",
+    content: "Shushnakpawar664@gmail.com",
+    href: "mailto:Shushnakpawar664@gmail.com",
     icon: <FaEnvelope height={"50px"} />,
   },
   {
