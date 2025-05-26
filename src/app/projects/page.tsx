@@ -45,7 +45,7 @@ Whether you're new to ai you can use this easily beacouse this is really easy to
     link: "https://studiorecipy.vercel.app/",
     images: [
       "/assets/projects-screenshots/studio/1.png",
-      "/assets/projects-screenshots/studioy/2.png",
+      "/assets/projects-screenshots/studio/2.png",
       "/assets/projects-screenshots/studio/3.png",
       "/assets/projects-screenshots/studio/4.png",
       "/assets/projects-screenshots/studio/5.png",
