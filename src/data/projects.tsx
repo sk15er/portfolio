@@ -416,7 +416,7 @@ const projects: Project[] = [
     title: "Make app for youtube",
     src: "/assets/projects-screenshots/youtube/2.png",
     screenshots: ["1.png", "2.png", "3.png", "4.png"],
-    github: "github.com/sk16er/youtube-app-maker",
+    github: "https://github.com/sk16er/youtube-app-maker",
     live: "https://youtube-app-maker.vercel.app/",
     
     skills: {
