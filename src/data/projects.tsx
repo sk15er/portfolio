@@ -309,7 +309,7 @@ const projects: Project[] = [
               
             ]}
           />
-          <TypographyH3 className="my-4 mt-8">Usrs login</TypographyH3>
+          <TypographyH3 className="my-4 mt-8">User Login</TypographyH3>
           <p className="font-mono mb-2">
             i have make a login system using firebase auth, so you can save your
             Chats and you can see your history in your profile.
