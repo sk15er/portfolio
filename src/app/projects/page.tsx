@@ -11,9 +11,9 @@ import "@splidejs/react-splide/css";
 const PROJECTS = [
   {
     id: 1,
-    name: "spark0.2",
-    description: `Dive into world of ai, a fusion of Ai and  creative playground with spark0.2's problem-solving realm.
-Whether you're new to ai you can use this easily beacouse this is really easy to use..`,
+    name: "Spark 0.2",
+    description: `Dive into the world of AI, a fusion of AI and creative playground with Spark 0.2's problem-solving realm.
+Whether you're new to AI, you can use this easily because it's really easy to use.`,
     link: "https://spark02.vercel.app/",
     images: [
       "/assets/projects-screenshots/spark0.2/1.png",
