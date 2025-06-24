@@ -11,16 +11,15 @@ import "@splidejs/react-splide/css";
 const PROJECTS = [
   {
     id: 1,
-    name: "spark0.2",
-    description: `Dive into world of ai, a fusion of Ai and  creative playground with spark0.2's problem-solving realm.
-Whether you're new to ai you can use this easily beacouse this is really easy to use..`,
-    link: "https://spark02.vercel.app/",
+    name: "Vero",
+    description: `Vero stands for virtual hero this is a LLM which you can use locally and this have 120k+ downloads on ollama `,
+    link: "https://ollama.com/shushank/vero",
     images: [
-      "/assets/projects-screenshots/spark0.2/1.png",
-      "/assets/projects-screenshots/codingducks/2.png",
-      "/assets/projects-screenshots/codingducks/3.png",
-      "/assets/projects-screenshots/codingducks/4.png",
-      "/assets/projects-screenshots/codingducks/5.png",
+      "/assets/projects-screenshots/Vero/1.png",
+      "/assets/projects-screenshots/Vero/2.png",
+      "/assets/projects-screenshots/Vero/3.png",
+      "/assets/projects-screenshots/Vero/4.png",
+      "/assets/projects-screenshots/Vero/5.png",
     ],
   },
   {
