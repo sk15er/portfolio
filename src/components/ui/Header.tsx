@@ -12,10 +12,10 @@ const LINKS = [
 ];
 
 const Header = () => {
-  const activeRoute = usePathname();
+  const actiVeroute = usePathname();
   return (
     <div className="w-screen flex justify-center items-center h-[60px] container-xl mx-auto px-4 absolute top-0">
-      {activeRoute !== "/" && (
+      {actiVeroute !== "/" && (
         <Link
           href={"/"}
           className="p-4 absolute top-0 left-2 text-sm duration-500 hover:text-zinc-300"
@@ -29,7 +29,7 @@ const Header = () => {
             key={link.href}
             href={link.href}
             className={`p-4 text-sm duration-500 text-zinc-500 hover:text-zinc-300 ${
-              activeRoute === link.href ? "text-zinc-200" : ""
+              actiVeroute === link.href ? "text-zinc-200" : ""
             }`}
           >
             {link.name}
