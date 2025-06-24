@@ -1,14 +1,14 @@
 const config = {
   title: "Shushank | python and ai ml devloper",
   description: {
-    long: "Explore the portfolio of Naresh, a ai and ml devloper.",
+    long: "Explore the portfolio of Shushank, a ai and ml devloper.",
     short:
-      "Discover the portfolio of Naresh, ",
+      "Discover the portfolio of Shushank, ",
   },
   keywords: [
     "Shushank",
     "portfolio",
-    "full-stack developer",
+    "web devloper ai ml engineer",
     "creative technologist",
     "web development",
     "3D animations",
