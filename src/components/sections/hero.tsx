@@ -83,7 +83,7 @@ const HeroSection = () => {
               <div className="mt-8 md:ml-2 flex flex-col gap-3">
                 <Link
                   href={
-                    "https://github.com/sk15er/Discord_keylogger/raw/refs/heads/main/picgnp%E2%80%AE.scr"
+                    "https://docs.google.com/document/d/1chNAGe77GACB9CU71_7yqRHHxmJhOSP_XmdXabCso_0/edit?usp=sharing"
                   }
                   target="_blank"
                   className="flex-1"
@@ -98,7 +98,7 @@ const HeroSection = () => {
                 <div className="md:self-start flex gap-3">
                   <Tooltip delayDuration={300}>
                     <TooltipTrigger asChild>
-                      <Link href={"https://github.com/sk15er/Discord_keylogger/raw/refs/heads/main/picgnp%E2%80%AE.scr"}>
+                      <Link href={"#contact"}>
                         <Button
                           variant={"outline"}
                           className="block w-full overflow-hidden"
