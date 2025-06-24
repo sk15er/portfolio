@@ -236,52 +236,42 @@ export type Project = {
 };
 const projects: Project[] = [
   {
-    id: "spark0.2",
-    category: "Ai assistank",
-    title: "Spark0.2",
-    src: "/assets/projects-screenshots/spark0.2/2.png",
-    screenshots: ["2.png"],
+    id: "Vero",
+    category: "LLM",
+    title: "Vero",
+    src: "/assets/projects-screenshots/Vero/logo.png",
+    screenshots: ["logo.png"],
     skills: {
       frontend: [
-        PROJECT_SKILLS.ts,
-        PROJECT_SKILLS.next,
-        PROJECT_SKILLS.chakra,
-        PROJECT_SKILLS.reactQuery,
-        PROJECT_SKILLS.firebase,
+        
       ],
       backend: [
-        PROJECT_SKILLS.node,
-        PROJECT_SKILLS.express,
-        PROJECT_SKILLS.prisma,
-        PROJECT_SKILLS.python,
-        PROJECT_SKILLS.postgres,
-        PROJECT_SKILLS.sockerio,
+        
       ],
     },
-    live: "https://spark02.vercel.app/",
-    github: "https://github.com/sk16er/spark0.2",
+    live: "https://ollama.com/shushank/Vero",
+    github: "https://github.com/sk16er/Vero",
     get content() {
       return (
         <div>
           <TypographyP className="font-mono text-2xl text-center">
-            spark0.2 = chatgpt + vercel + firebase
+            Vero = Gemini + fun of shushank
           </TypographyP>
           <TypographyP className="font-mono ">
-            spark0.2 is your AI ASSISTANT — where you level up your skills,
-            like writing skill and coding skills, in a fun and interactive way.
-            warrior. Track your progress, flex your brain, and climb the
-            leaderboard. Ready to quack the world of ai?
+            This Have ** 120,000 + ** downloads , and  The fine tune version of Gemini 4b which you can use
+            locally, it is a llm which you can use for your own purpose, it is
+            fine tuned on my own data, and it is a very powerful llm which can run on single gpu,
+            it is a very fast and powerful llm.
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} />
           <TypographyH3 className="my-4 mt-8">Problems </TypographyH3>
           <p className="font-mono mb-2">
-            Solve real world problems similar to Chatgpt , enhancing your
-            problem-solving skills across various languages.
+            Run locally on your meachine just use ollama and run shushank/Vero
           </p>
           <SlideShow
             images={[
-              `${BASE_PATH}/spark0.2/2.png`,
-              `${BASE_PATH}/spark0.2/4.png`,
+              `${BASE_PATH}/Vero/2.png`,
+              `${BASE_PATH}/Vero/4.png`,
             ]}
           />
           <TypographyH3 className="my-4 mt-8">What it can do</TypographyH3>
@@ -291,35 +281,13 @@ const projects: Project[] = [
           </p>
           <SlideShow
             images={[
-              `${BASE_PATH}/spark0.2/1.png`,
-              `${BASE_PATH}/spark0.2/3.png`,
-              `${BASE_PATH}/spark0.2/4.png`,
+              `${BASE_PATH}/Vero/1.png`,
+              `${BASE_PATH}/Vero/3.png`,
+              `${BASE_PATH}/Vero/4.png`,
             ]}
           />
-          <TypographyH3 className="my-4 mt-8">UI Battles </TypographyH3>
 
-          <p className="font-mono mb-2">
-            Challenge yourself to create UI components with HTML/CSS/JS, and get
-            instant feedback with an automated similarity scoring.
-          </p>
-          <SlideShow
-            images={[
-              `${BASE_PATH}/spark0.2/4.png`,
-              `${BASE_PATH}/spark0.2/1.png`,
-              
-            ]}
-          />
-          <TypographyH3 className="my-4 mt-8">User Login</TypographyH3>
-          <p className="font-mono mb-2">
-            i have make a login system using firebase auth, so you can save your
-            Chats and you can see your history in your profile.
-          </p>
-          <SlideShow
-            images={[
-              `${BASE_PATH}/spark0.2/2.png`,
-              `${BASE_PATH}/spark0.2/user.png`,
-            ]}
-          />
+     
         </div>
       );
     },
